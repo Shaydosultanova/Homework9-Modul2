@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-style: Mulish;
+}
+
+h1{
+    text-align: center;
+    margin-top: 76.26px;
+    margin-bottom: 75px;
+}
+.conteiner{
+    max-width: 1180px;
+    margin: 0 auto;
+}
+
+.imgtext{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    color: rgba(0, 0, 0, 1);
+    font-size: 36px;
+    gap: 112px;
+}
+
+.text{
+    color: rgba(125, 121, 135, 1);
+    font-size: 18px;
+
+}
+
+button{
+    width: 201.92px;
+    height: 56.74px;
+    border-radius: 55px;
+    color: rgba(69, 143, 246, 1);
+    border: 2px solid;
+    margin-top: 41px;
+}
+
+button:hover{
+    background-color: hsla(215, 91%, 62%, 1);
+    color: white;
+    transition: .3s;
+}
+
+.tek{
+    margin-bottom: 63px;
+}
+
+.teks{
+    margin-top: 60px;
+}
+
+h2{
+    text-align: center;
+    margin-top: 153px;
+    font-size: 36px;
+    margin-bottom: 110px;
+}
+
+.rasmlar{
+    display: flex;
+}
+
+.malumot{
+    color: rgba(0, 0, 0, 1);
+    font-size: 21px;
+    line-height: 32px;
+    text-align: center;
+    padding-bottom: 10px;
+    width: 250px;
+}
+
+.malumotlar{
+    color: rgba(125, 121, 135, 1);
+    font-size: 16px;
+    text-align: center;
+    padding-bottom: 18px;
+}
+
+.keyingi{
+    color: rgba(64, 137, 237, 1);
+    margin-top: 18px;
+}
+
+.vwa{
+    text-align: center;
+    margin-left: 500px;
+}
+
+footer{
+ background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);
+ height: 400px;
+ margin-top: 180px;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.footer>div{
+    margin-top: 185px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.class{
+   color:rgba(255, 255, 255, 0.738);
+}
+.class1{
+    width: 250px;
+}
